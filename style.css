@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+span.tiengAnh {
+    font-weight: bold;
+}
+
+span.tiengViet {
+    color: #666;
+}
